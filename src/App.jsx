@@ -89,7 +89,7 @@ function AppContent() {
                 <Route path="/what-we-do" element={<WhatWeDo />} />
                 <Route path="/governance" element={<Governance />} />
                 <Route path="/portfolio" element={<PortfolioPage />} />
-                <Route path="/careers" element={<Careers />} />
+                {/* <Route path="/careers" element={<Careers />} /> */}
                 <Route path="/contact" element={<Contact />} />
               </Routes>
             </React.Suspense>
