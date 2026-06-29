@@ -169,7 +169,8 @@ export default function Contact() {
           <div className="rounded-3xl overflow-hidden shadow-lg border border-slate-200 dark:border-slate-800/80 h-96 relative">
             <iframe
               title="Unitex Socks Head Office Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115813.91638210352!2d67.06813134999999!3d24.89299445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb339ef3d2c8883%3A0xa196b1d99cd19f!2sKorangi%20Industrial%20Area%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh!5e0!3m2!1sen!2spk!4v1690000000000!5m2!1sen!2spk"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2859.1067224906!2d74.3279161451071!3d31.441350657606396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391907a51cc93337%3A0xa5957a40550800c1!2sUNITEX%20(%20Socks%20Company%20)!5e0!3m2!1sen!2s!4v1782730821167!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"
+              // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115813.91638210352!2d67.06813134999999!3d24.89299445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb339ef3d2c8883%3A0xa196b1d99cd19f!2sKorangi%20Industrial%20Area%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh!5e0!3m2!1sen!2spk!4v1690000000000!5m2!1sen!2spk"
               width="100%"
               height="100%"
               style={{ border: 0, filter: 'grayscale(0.3) contrast(1.1)' }}
