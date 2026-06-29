@@ -28,7 +28,7 @@ export default function Navbar() {
     { name: 'What We Do', path: '/what-we-do' },
     { name: 'Governance', path: '/governance' },
     { name: 'Portfolio', path: '/portfolio' },
-    { name: 'Careers', path: '/careers' },
+    // { name: 'Careers', path: '/careers' },
     { name: 'Contact Us', path: '/contact' },
   ];
 
@@ -45,7 +45,10 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-2xl font-bold tracking-wider font-display text-primary dark:text-white flex items-center">
-              UNITEX<span className="text-accent">SOCKS</span>
+              UNITEX
+        
+
+              <span className="text-accent">SOCKS</span>
             </span>
           </Link>
 

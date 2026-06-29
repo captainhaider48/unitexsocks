@@ -17,7 +17,7 @@ export const servicesData = [
       composition: '80% Combed Cotton, 15% Polyester, 5% Elastane',
       gauge: '168N / 200N high-density knitting',
       features: ['Targeted compression zones', 'Breathable mesh vents', 'Reinforced heel and toe', 'Anti-blister seamless toe closure'],
-      moq: '3,000 pairs per style/color'
+      moq: '1,000 pairs per style/color'
     }
   },
   {
@@ -41,7 +41,7 @@ export const servicesData = [
       composition: '78% Organic Cotton, 19% Nylon, 3% Elastane',
       gauge: '144N / 168N everyday gauge',
       features: ['Comfort stretch band', 'Diverse pattern prints', 'Breathable knit structure', 'Durable wash-and-wear design'],
-      moq: '3,000 pairs per style/color'
+      moq: '1,000 pairs per style/color'
     }
   },
   {
@@ -77,7 +77,7 @@ export const servicesData = [
       composition: '80% Combed Cotton, 17% Polyester, 3% Spandex',
       gauge: '144N / 168N comfort gauge',
       features: ['Y-heel construction', 'Elastane ankle ring prevention', 'Light cushion footbed', 'Minimalist cuff'],
-      moq: '3,000 pairs per style/color'
+      moq: '1,000 pairs per style/color'
     }
   },
   {
@@ -101,7 +101,7 @@ export const servicesData = [
       composition: '95% GOTS Certified Organic Cotton, 5% Lycra',
       gauge: '168N eco-knit',
       features: ['GOTS certified organic yarn', 'Natural plant-based dyeing', 'Completely chemical-free feel', 'Ultra-gentle skin contact'],
-      moq: '3,000 pairs per style/color'
+      moq: '1,000 pairs per style/color'
     }
   },
   {
@@ -113,7 +113,7 @@ export const servicesData = [
       composition: 'Fully customizable yarn options',
       gauge: 'Available options: 120N, 144N, 168N, 200N',
       features: ['CAD artwork blueprints', 'Digital sample visualization', 'Eco-friendly label design', 'Pantone color matching'],
-      moq: '3,000 pairs per customized design'
+      moq: '1,000 pairs per customized design'
     }
   },
   {
@@ -149,7 +149,7 @@ export const servicesData = [
       composition: 'Export standard compliance materials',
       gauge: 'Consistent bulk manufacturing logs',
       features: ['FOB, CIF, and DDP export settings', 'Moisture-proof container wrapping', 'All compliance certificates provided', 'Fast lead times'],
-      moq: '20,000 pairs per shipping batch'
+      moq: '200,000 pairs per shipping batch'
     }
   }
 ];

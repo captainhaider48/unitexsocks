@@ -9,7 +9,7 @@ import ContactForm from '../components/ContactForm';
 const faqs = [
   {
     q: 'What is your Minimum Order Quantity (MOQ)?',
-    a: 'Our standard MOQ is 3,000 pairs per style/color/size. For compression socks, we accommodate 2,000 pairs, and for large school uniform runs, orders typically begin at 5,000 pairs.'
+    a: 'Our standard MOQ is 1,000 pairs per style/color/size. For compression socks, we accommodate 2,000 pairs, and for large school uniform runs, orders typically begin at 5,000 pairs.'
   },
   {
     q: 'Can you manufacture custom logo designs?',
@@ -91,7 +91,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-bold text-sm text-primary dark:text-white font-display">Office & Factory Address</h4>
                     <p className="text-slate-500 dark:text-slate-400 text-xs mt-1 leading-relaxed">
-                      Sector 15, Industrial Estate Korangi, Karachi, Pakistan
+                      242 S, Lahore, 54000 Pakistan
                     </p>
                   </div>
                 </div>
@@ -115,7 +115,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-bold text-sm text-primary dark:text-white font-display">Export Department Hotline</h4>
                     <p className="text-slate-500 dark:text-slate-400 text-xs mt-1">
-                      <a href="tel:+923001234567" className="hover:text-accent transition-colors">+92 (300) 123-4567</a>
+                      <a href="tel:+923001234567" className="hover:text-accent transition-colors">+92 (335) 992-6971</a>
                     </p>
                   </div>
                 </div>
