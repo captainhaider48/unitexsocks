@@ -33,16 +33,16 @@ export default function Footer() {
               Leading global manufacturer and exporter of premium custom, sports, casual, and compression socks. Standardized manufacturing satisfying worldwide top-tier brands.
             </p>
             <div className="flex space-x-4">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="Facebook">
+              <a href="https://facebook.com" target="https://www.facebook.com/profile.php?id=61591647123183" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="Facebook">
                 <FaFacebookF className="w-4 h-4" />
               </a>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="Twitter">
                 <FaTwitter className="w-4 h-4" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="LinkedIn">
+              <a href="https://linkedin.com" target="https://www.linkedin.com/in/unitex-socks-587186420/" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="LinkedIn">
                 <FaLinkedinIn className="w-4 h-4" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="Instagram">
+              <a href="https://instagram.com" target="https://www.instagram.com/unitexsocksofficial/" rel="noopener noreferrer" className="p-2.5 rounded-full bg-slate-800 hover:bg-accent hover:text-primary transition-all duration-300" aria-label="Instagram">
                 <FaInstagram className="w-4 h-4" />
               </a>
             </div>
