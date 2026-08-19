@@ -25,9 +25,15 @@ export default function Footer() {
           {/* Column 1: Brand & Bio */}
           <div>
             <Link to="/" className="flex items-center space-x-2 mb-5">
-              <span className="text-2xl font-bold tracking-wider font-display text-white">
-                UNITEX<span className="text-accent">SOCKS</span>
-              </span>
+    <img
+    src="/assets/images/logo.png"
+    alt="UNITEX SOCKS Logo"
+    className="h-12 w-auto object-contain"
+  />
+
+  <span className="text-2xl font-bold tracking-wider font-display text-white">
+    UNITEX<span className="text-accent">SOCKS</span>
+  </span>
             </Link>
             <p className="text-sm text-slate-400 leading-relaxed mb-6">
               Leading global manufacturer and exporter of premium custom, sports, casual, and compression socks. Standardized manufacturing satisfying worldwide top-tier brands.

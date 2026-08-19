@@ -44,12 +44,15 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <span className="text-2xl font-bold tracking-wider font-display text-primary dark:text-white flex items-center">
-              UNITEX
-        
+             <img
+    src="/assets/images/logo.png"
+    alt="UNITEX SOCKS Logo"
+    className="h-12 w-auto object-contain"
+  />
 
-              <span className="text-accent">SOCKS</span>
-            </span>
+  <span className="text-2xl font-bold tracking-wider font-display text-white">
+    UNITEX<span className="text-accent">SOCKS</span>
+  </span>
           </Link>
 
           {/* Desktop Nav Links */}

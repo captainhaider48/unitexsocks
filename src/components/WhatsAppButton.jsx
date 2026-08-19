@@ -36,7 +36,7 @@ export default function WhatsAppButton() {
         )}
       </AnimatePresence>
       <motion.a
-        href="https://wa.me/1234567890?text=Hi%20Unitex%20Socks,%20I'm%20interested%20in%20a%20manufacturing%20quote."
+        href="https://wa.me/923051521939?text=Hi%20Unitex%20Socks,%20I'm%20interested%20in%20a%20manufacturing%20quote."
         target="_blank"
         rel="noopener noreferrer"
         className="p-4 rounded-full bg-[#25D366] hover:bg-[#20ba5a] text-white shadow-xl hover:shadow-2xl flex items-center justify-center cursor-pointer border border-emerald-400/30"
