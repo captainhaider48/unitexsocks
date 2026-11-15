@@ -103,7 +103,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-bold text-sm text-primary dark:text-white font-display">Email Support</h4>
                     <p className="text-slate-500 dark:text-slate-400 text-xs mt-1">
-                      <a href="mailto:export@unitexsocks.com" className="hover:text-accent transition-colors">export@unitexsocks.com</a>
+                      <a href="mailto:export@unitexsocks.com" className="hover:text-accent transition-colors">unitexsocksofficial@gmail.com</a>
                     </p>
                   </div>
                 </div>
