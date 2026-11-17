@@ -103,7 +103,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-bold text-sm text-primary dark:text-white font-display">Email Support</h4>
                     <p className="text-slate-500 dark:text-slate-400 text-xs mt-1">
-                      <a href="mailto:export@unitexsocks.com" className="hover:text-accent transition-colors">export@unitexsocks.com</a>
+                      <a href="mailto:export@unitexsocks.com" className="hover:text-accent transition-colors">unitexsocksofficial@gmail.com</a>
                     </p>
                   </div>
                 </div>
@@ -115,7 +115,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-bold text-sm text-primary dark:text-white font-display">Export Department Hotline</h4>
                     <p className="text-slate-500 dark:text-slate-400 text-xs mt-1">
-                      <a href="tel:+923001234567" className="hover:text-accent transition-colors">+92 (335) 992-6971</a>
+                      <a href="tel:+923001234567" className="hover:text-accent transition-colors">+92 (305) 152-1939</a>
                     </p>
                   </div>
                 </div>
